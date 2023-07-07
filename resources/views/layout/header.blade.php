@@ -110,7 +110,7 @@
                                     </li>
                                     <li class="menu-item has-children"><a href="#" class="nav-link">Pages</a>
                                         <ul class="sub-menu">
-                                            <li><a href="about.html">About Us</a></li>
+                                            <li><a href="o-nama">O nama</a></li>
                                             <li><a href="team.html">Our Team</a></li>
                                             <li><a href="team-details.html">Team Details</a></li>
                                         </ul>
