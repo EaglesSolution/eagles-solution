@@ -13,9 +13,7 @@
                 <div class="row">
                     <div class="col-xl-8 col-lg-12">
                         <div class="hero-content">
-                            <h1 class="wow fadeInUp" data-wow-delay=".5s">Brand, Design 
-                                & Development
-                                Agency</h1>
+                            <h1 class="wow fadeInUp" data-wow-delay=".5s">EAGLES SOLUTION</h1>
                             <p class="wow fadeInDown" data-wow-delay="1s">Sit amet consectetur adipiscing elit sed do eiusmod tem
                                 porincididunt ut labore et dolore magna aliqua. Quis psum
                                 suspendisse ultrices gravida commodo viverra</p>
