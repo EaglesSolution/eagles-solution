@@ -78,18 +78,9 @@
                 </div>
                 <div class="footer-copyright">
                     <div class="row">
-                        <div class="col-lg-6">
+                        <div class="col-lg-12">
                             <div class="copyright-text">
-                                <p>&copy; 2022. All rights reserved design by Webtend</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="footer-nav float-lg-right">
-                                <ul>
-                                    <li><a href="service-details.html">Setting & Privacy </a></li>
-                                    <li><a href="service-details.html">Faqs</a></li>
-                                    <li><a href="service-details.html">Services</a></li>
-                                </ul>
+                                <p>&copy; <?php echo date("Y"); ?> Eagles Solution. Sva prava zadržana. Design By Eagles Solution.</p>
                             </div>
                         </div>
                     </div>

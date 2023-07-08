@@ -4770,6 +4770,12 @@ button {
     font-weight: 500;
 }
 
+.h5 {
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+}
+
 /*---==========================
    End Dark Page Css
 =========================---*/
